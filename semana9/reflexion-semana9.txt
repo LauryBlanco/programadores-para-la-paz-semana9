@@ -1,0 +1,14 @@
+Reflexión:
+
+La estabilidad y seguridad de un servidor es la columna vertebral de cualquier iniciativa 
+ciudadana apoyada en herramientas digitales. Si una plataforma comunitaria sufre caídas 
+constantes, se obstaculiza la comunicación y se pierde el dinamismo de los reportes vecinales.
+Además, la falta de estabilidad frustra a los usuarios, restándole credibilidad a la herramienta 
+y desalentando la participación futura. Proteger el servidor con prácticas seguras evita que 
+ataques maliciosos modifiquen la información o roben datos personales de los vecinos. El uso de 
+sistemas de registro y monitoreo (como logs) permite prever colapsos del sistema y corregir 
+problemas antes de que afecten a los usuarios. Un servidor descuidado expone a la comunidad a 
+filtraciones graves, poniendo en riesgo la integridad digital y física de sus miembros. Por el 
+contrario, garantizar un servicio en línea continuo fomenta la confianza colectiva en los canales 
+de reporte y organización social. Aprender a desplegar servidores de manera responsable es, por 
+lo tanto, un acto técnico de alto impacto y de profundo cuidado comunitario.

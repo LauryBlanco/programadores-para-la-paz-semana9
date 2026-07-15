@@ -1,0 +1,19 @@
+Análisis de ejecución de nuestro servidor local:
+
+1. ¿Qué ocurre cuando ejecutas 'node server.js'?
+Node.js inicializa la aplicación compilando el código de Express. Se establece un proceso 
+en segundo plano en el sistema operativo que reserva y abre el puerto 3000, colocándolo en 
+un estado de escucha activa ("listening") para recibir futuras peticiones entrantes.
+
+2. ¿Qué mensaje aparece en la terminal?
+Aparece el mensaje de confirmación controlado en el callback de arranque:
+"Servidor ejecutándose en puerto 3000"
+
+3. ¿Qué sucede cuando visitas la ruta '/estado'?
+El cliente (en este caso, el navegador web) realiza una solicitud GET. El servidor captura 
+esta petición en el endpoint '/estado' y responde de vuelta enviando un documento estructurado 
+en formato JSON con la siguiente información:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
